@@ -19,12 +19,12 @@ This project calculates the total length of all video files in a given folder. I
 
 2. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/videolengthcalculator.git
+    git clone https://github.com/yourusername/video-length-calculator.git
     ```
 
 3. Navigate to the project directory:
     ```sh
-    cd videolengthcalculator
+    cd video-length-calculator
     ```
 
 4. It’s recommended to use a virtual environment to manage dependencies:
